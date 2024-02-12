@@ -1,4 +1,5 @@
 App with purpose to ease learning languages. 
+
 Main idea is to help to learn single words, phrases, get its translation. Was decided to implement  deep_translator library as tranlation engine.
 Treating of text is occuring with the help of re library.
 I tried to envolve as much as possible conponents of Kivy 1.1.1 GUI.
